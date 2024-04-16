@@ -1,0 +1,1 @@
+'databaseURL': "https://facerec-e27d4-default-rtdb.firebaseio.com/"
